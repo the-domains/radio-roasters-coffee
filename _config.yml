@@ -2,6 +2,7 @@ name: Radio Roasters Coffee
 favicon: null
 layout_spectrum: 0.9894178246613592
 typography_spectrum: 0.5938885784707963
+title: Radio Roasters Coffee
 cta:
   domain: null
   bucket: null

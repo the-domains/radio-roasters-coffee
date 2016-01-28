@@ -1,7 +1,7 @@
 name: Radio Roasters Coffee
 favicon: null
-layout_spectrum: 0.9894178246613592
-typography_spectrum: 0.5938885784707963
+layout_spectrum: 0.40058
+typography_spectrum: 0.32143
 title: Radio Roasters Coffee
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#444444'
     - '#767676'
     - '#969696'
-  brandStrength: 0.3790320851840079
-  lightness: 0.15009427373297513
+  brandStrength: 0.3125
+  lightness: 0.4375
   saturation: 0.6170986271463335
-  rhythmicContrast: 0.23608615482226014
+  rhythmicContrast: 0.5
 purpose: []

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Radio Roasters Coffee]]></title>
+        <description><![CDATA[Radio Roasters Coffee]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 28 Jan 2016 20:40:18 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Single-origin coffees, carefully sourced and roasted in small batches.]]></title>
+            <description><![CDATA[<article><h1>Single-origin coffees, carefully sourced and roasted in small batches.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/56def4b83406ed008de4eb1b0b77055b21c8377f.jpg"></article>]]></description>
+            <link>undefinedb3779451-0414-49e9-9919-3b9bdd18e21f/index.html</link>
+            <guid isPermaLink="false">b3779451-0414-49e9-9919-3b9bdd18e21f</guid>
+            <pubDate>Thu, 28 Jan 2016 20:40:15 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
